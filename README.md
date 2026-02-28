@@ -35,6 +35,7 @@ Solidity 스마트 컨트랙트 보안 워게임 [The Ethernaut](https://etherna
 | Title | Link |
 |-------|------|
 | Solana 핫월렛 개인키 탈취 취약점 (Ed25519 Shared-R) 분석 | [Blog](https://velog.io/@sane100400/Solana-%ED%95%AB%EC%9B%94%EB%A0%9B-%EA%B0%9C%EC%9D%B8%ED%82%A4-%ED%83%88%EC%B7%A8-%EC%B7%A8%EC%95%BD%EC%A0%90-Ed25519-Shared-R-%EB%B6%84%EC%84%9D) |
+| Solana Hot Wallet Private Key Extraction via Ed25519 Shared-R Vulnerability | [Blog](https://velog.io/@sane100400/Solana-Hot-Wallet-Private-Key-Extraction-via-Ed25519-Shared-R-Vulnerability) |
 
 ### Other CTF / Challenge
 
